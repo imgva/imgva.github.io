@@ -23,7 +23,7 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
 
-body { margin: 0; }
+body { margin: auto; }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
 
@@ -329,7 +329,7 @@ pre.highlight, code { font-family: 'Consolas', Menlo, monospace; line-height: 1.
 
 *, *:before, *:after { box-sizing: border-box; }
 
-body { font-family: "Raleway", sans-serif; font-size: 16px; line-height: 1.2em; margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { font-family: "Raleway", sans-serif; font-size: 16px; line-height: 1.2em; margin: auto; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 img, embed, object, video { max-width: 100%; }
 

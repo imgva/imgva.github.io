@@ -338,7 +338,7 @@ a:hover { color: #0a59b0; }
 
 h2 { margin: 0.7em 0; }
 
-main { margin: 0 90px; display: flex; height: 100%; }
+main { margin: auto; display: flex; height: 100%; }
 @media screen and (min-width: 1600px) { main { margin: 0 auto; max-width: 1440px; } }
 @media screen and (max-width: 1280px) { main { margin: 0 75px; } }
 @media screen and (max-width: 1024px) { main { margin: 0 35px; } }
